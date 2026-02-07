@@ -4,3 +4,5 @@ dist
 .DS_Store
 .aider*
 tsconfig.tsbuildinfo
+*.md
+!README.md
